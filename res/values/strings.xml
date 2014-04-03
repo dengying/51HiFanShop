@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">嗨翻云购网</string>
+	<string name="loading">拼命加载中...</string>
+	<string name="click_reloading">网络不给力啊！点击重新加载</string>
+	<string name="exit">退出</string>
+	<string name="exit_msg">客官，这么快就走了啊？</string>
+	<string name="exit_btn_yes">是的！</string>
+	<string name="exit_btn_no">再看看！</string>
+</resources>
